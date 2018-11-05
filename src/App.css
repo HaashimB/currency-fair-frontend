@@ -1,31 +1,116 @@
-#page-wrap {
-  width: 80%;
-  margin: 0 auto;
+body{
+    overflow: hidden;
 }
 
 .home {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 .home-header {
-  background-color: #282c34;
-  display: flex;
-  font-size: 15px;
-  color: white;
-  width: 100%;
-  height: 70px;
-  padding-left: 150px;
+    background-color: #282c34;
+    display: flex;
+    font-size: 15px;
+    color: white;
+    height: 70px;
+    padding-left: 100px;
 }
 
-.App-link {
-  color: #61dafb;
+.home-main{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
 }
 
-.home-main {
+.home-left {
+    align-self: flex-start;
+    height: 500px;
+    width: 60%;
+}
 
-  border: solid #282c34;
-  border-width: 0 1px 0 1px;
-  height: 500px;
+.home-panel {
+    align-self: flex-end;
+    border-left: 0.4px solid #CBCBCA;
+    background-color: #F8F8FB;
+    width: 40vw;
+    height: 95vh;
+}
+
+.tab {
+    margin-top: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.tab-links {
+    display: flex;
+    flex-direction: column;
+    background-color: inherit;
+    cursor: pointer;
+    transition: 0.3s;
+    border-bottom: 4px solid #99ceff45;
+    color: #bfc5cab5;
+    padding-left: 5%;
+    width: 21%;
+}
+
+.link-1 {
+    border-color: #3DAADE;
+    color: #99ceff;
+}
+
+.tab-links h4 {
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.tab-links h5 {
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.transaction h3 {
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: #9f9ca2;
+}
+
+.transaction {
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+}
+
+.transaction-box {
+    display: flex;
+    flex-direction: column;
+    background-color: inherit;
+    border: 1.5px solid #bfc5cab5;
+    border-top: none;
+    color: #bfc5cab5;
+    height: 110px;
+    width: 42vw;
+    padding-left: 20px;
+}
+.transaction-box h1 {
+    margin: 0;
+    color: black;
+}
+.transaction-box h2 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.box-1 {
+    border: 1.5px solid #3DAADE;
+    background-color: #a3d6ef14;
+    color: #3DAADE;
+    border-top: 1px solid #3DAADE;
+    border-right: 1px solid #3DAADE;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
