@@ -14,7 +14,7 @@ body{
     font-size: 15px;
     color: white;
     height: 70px;
-    padding-left: 100px;
+    padding-left: 10%;
 }
 
 .home-main{
@@ -26,15 +26,7 @@ body{
 .home-left {
     align-self: flex-start;
     height: 500px;
-    width: 60%;
-}
-
-.home-panel {
-    align-self: flex-end;
-    border-left: 0.4px solid #CBCBCA;
-    background-color: #F8F8FB;
-    width: 40vw;
-    height: 95vh;
+    width: 58%;
 }
 
 .tab {
@@ -42,7 +34,7 @@ body{
     background-color: white;
     display: flex;
     justify-content: center;
-    margin-left: 10%;
+    margin-left: 18.5%;
 }
 
 .tab-links {
@@ -53,8 +45,8 @@ body{
     transition: 0.3s;
     border-bottom: 4px solid #99ceff45;
     color: #bfc5cab5;
-    padding-left: 5%;
-    width: 21%;
+    padding-left: 6%;
+    width: 10.1vw;
 }
 
 .link-1 {
@@ -72,18 +64,23 @@ body{
     margin-top: 0;
 }
 
-.transaction h3 {
-    margin-top: 0;
-    margin-bottom: 40px;
-    color: #9f9ca2;
-}
-
 .transaction {
     margin-top: 20px;
     background-color: white;
     display: flex;
     flex-direction: column;
-    margin-left: 20%;
+    margin-left: 26%;
+}
+
+.transaction h3 {
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: #9f9ca2;
+    font-size: medium;
+}
+
+.transaction h2 {
+    font-size: larger;
 }
 
 .transaction-box {
@@ -94,8 +91,10 @@ body{
     border-top: none;
     color: #bfc5cab5;
     height: 110px;
-    width: 42vw;
+    width: 37.5vw;
     padding-left: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 .transaction-box h1 {
     margin: 0;
@@ -106,11 +105,132 @@ body{
     margin-bottom: 5px;
 }
 .box-1 {
-    border: 1.5px solid #3DAADE;
     background-color: #a3d6ef14;
     color: #3DAADE;
+    border: 1.5px solid #3DAADE;
     border-top: 1px solid #3DAADE;
     border-right: 1px solid #3DAADE;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-radius: 5px 5px 0 0;
+}
+
+.next-btn {
+    background-color: #3daadec2;
+    color: white;
+    width: 80px;
+    height: 45px;
+    border: 1px solid #3DAADE;
+    border-radius: 5px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.next-btn:hover{
+    background-color: #3DAADE;
+}
+
+.next-btn:active{
+    outline-style: hidden;
+}
+
+.next-btn h3 {
+    font-size: large;
+    color: white;
+    margin-top: 11px;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+    width: 39vw;
+    border-top:0.5px solid #bfc5cab5;
+    color: #3DAADE;
+}
+
+.footer h6 {
+    margin-top: 15px;
+}
+
+.footer-start {
+    display: flex;
+    justify-self: flex-start;
+    margin-right: auto;
+    color: #bfc5cab5;
+}
+.footer-legal {
+    padding-left: 20px;
+}
+
+.home-right {
+    align-self: flex-end;
+    border-left: 0.4px solid #CBCBCA;
+    background-color: #f9f8f8;
+    width: 45vw;
+    height: 95vh;
+}
+
+.home-panel {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 350px;
+    height: 390px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
+.exchange-details {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    border-bottom: 0.5px solid black;
+    color: #bfc5cab5;
+}
+
+.exchange-right{
+    justify-content: flex-end;
+}
+
+.exchange-details h4{
+    padding-left: 10px;
+}
+
+.exchange-details h5{
+    padding-left: 10px;
+}
+
+.last-box {
+    justify-content: center;
+    border-bottom: none;
+    border-top: 0.5px solid black;
+    color: #ffde00;
+}
+
+.exchange-details-large {
+    display: flex;
+    width: 100%;
+    flex-grow: 10;
+    color: rgba(173, 179, 184, 0.71);
+    padding-bottom: 20px;
+}
+.whitebg {
+    background-color: white;
+}
+.col-1 {
+    padding-left: 10px;
+    width: 50%;
+    height: 90%;
+}
+
+.col-2 {
+    text-align: right;
+    padding-right: 10px;
+    width: 50%;
+    height: 90%;
+}
+
+.black {
+    color: black;
 }
