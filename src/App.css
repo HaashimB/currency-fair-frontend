@@ -2,8 +2,25 @@ body{
     overflow: hidden;
 }
 
+@font-face {
+    font-family: PostGrotesk;
+    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: PostGrotesk;
+    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff');
+    font-weight: bold;
+}
+
+* {
+    font-family: PostGrotesk;
+}
+
 .home {
     display: flex;
+    z-index: 0;
     flex-direction: column;
     justify-content: flex-start;
 }
@@ -21,6 +38,7 @@ body{
     display: flex;
     flex-direction: row;
     margin: 0 auto;
+    width: 100%;
 }
 
 .home-left {
@@ -85,17 +103,25 @@ body{
 
 .transaction-box {
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
+    padding-right: 20px;
+    align-items: center;
     background-color: inherit;
     border: 1.5px solid #bfc5cab5;
     border-top: none;
     color: #bfc5cab5;
     height: 110px;
-    width: 37.5vw;
+    width: 35vw;
     padding-left: 20px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+.transaction-box-text {
+    display: flex;
+    flex-direction: column;
+}
+
 .transaction-box h1 {
     margin: 0;
     color: black;
@@ -111,6 +137,24 @@ body{
     border-top: 1px solid #3DAADE;
     border-right: 1px solid #3DAADE;
     border-radius: 5px 5px 0 0;
+}
+
+.currency-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbfbfa;
+    color: #585858;
+    width: 75px;
+    height: 40px;
+    border: 1px solid #bfc5cab5;
+    border-radius: 20px 3px 3px 20px;
+}
+
+.currency-img {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
 }
 
 .next-btn {
@@ -177,15 +221,16 @@ body{
     margin-top: 50px;
     width: 350px;
     height: 390px;
-    border: 0.5px solid black;
+    border: 1px solid #bfc5cab5;
     border-radius: 5px;
 }
 
 .exchange-details {
     display: flex;
     width: 100%;
+    align-items: center;
     flex-grow: 1;
-    border-bottom: 0.5px solid black;
+    border-bottom: 1px solid #bfc5cab5;
     color: #bfc5cab5;
 }
 
@@ -195,17 +240,26 @@ body{
 
 .exchange-details h4{
     padding-left: 10px;
+    width: 80%;
 }
 
 .exchange-details h5{
     padding-left: 10px;
 }
 
+.question-image {
+    width: 15px;
+    height: 15px;
+    padding-right: 20px;
+}
+
 .last-box {
     justify-content: center;
     border-bottom: none;
-    border-top: 0.5px solid black;
-    color: #ffde00;
+    border-top: 1px solid #bfc5cab5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #ffb801;
 }
 
 .exchange-details-large {
@@ -232,5 +286,9 @@ body{
 }
 
 .black {
-    color: black;
+    color: #676767;
+}
+
+.blue {
+    color: #3DAADE;
 }
