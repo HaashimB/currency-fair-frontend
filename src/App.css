@@ -5,7 +5,19 @@ body{
 @font-face {
     font-family: PostGrotesk;
     src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff');
-    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: PostGrotesk;
+    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: PostGrotesk;
+    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff');
+    font-weight: normal;
 }
 
 @font-face {
@@ -16,6 +28,7 @@ body{
 
 * {
     font-family: PostGrotesk;
+    font-weight: normal;
 }
 
 .home {
