@@ -1,8 +1,8 @@
 import React from 'react';
-import question from './question.png';
-import './App.css';
+import question from '../resources/question.png';
+import '../css/App.css';
 
-function HomeRight(){
+function HomeRight(props){
     return(
         <div className="home-right">
             <div className="home-panel">
@@ -11,7 +11,7 @@ function HomeRight(){
                 </div>
                 <div className="exchange-details whitebg">
                     <h4>You Send</h4>
-                    <h4 className="col-2 black">€2,000.00</h4>
+                    <h4 className="col-2 black">€{props.sendAmount.toFixed(2)}</h4>
                 </div>
                 <div className="exchange-details black">
                     <h4>Receiving Details</h4>
@@ -26,14 +26,14 @@ function HomeRight(){
                         <h4>Recipient gets</h4>
                     </div>
                     <div className="col-2">
-                        <h4>0.86022</h4>
-                        <h4>£2.50</h4>
-                        <h4>25th of November</h4>
-                        <h4 className="black">£1,717.94</h4>
+                        <h4>{props.rate}</h4>
+                        <h4>£{props.fee.toFixed(2)}</h4>
+                        <h4>{props.deliveryDate}</h4>
+                        <h4 className="black">£{props.receiveAmount}</h4>
                     </div>
                 </div>
                 <div className="exchange-details last-box whitebg">
-                    <h5>You save £66.19 compared to your bank!</h5>
+                    <h5>You save £{props.bankSavings} compared to your bank!</h5>
                 </div>
             </div>
         </div>

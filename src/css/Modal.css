@@ -119,6 +119,7 @@
 }
 
 .verify-box {
+    text-align: center;
     width: 55px;
     height: 55px;
     border: 1px solid #bfc5cab5;

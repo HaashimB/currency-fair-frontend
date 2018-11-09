@@ -4,25 +4,25 @@ body{
 
 @font-face {
     font-family: PostGrotesk;
-    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff');
+    src: url('../font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff');
     font-weight: 100;
 }
 
 @font-face {
     font-family: PostGrotesk;
-    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff');
+    src: url('../font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff');
     font-weight: 200;
 }
 
 @font-face {
     font-family: PostGrotesk;
-    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff');
+    src: url('../font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff');
     font-weight: normal;
 }
 
 @font-face {
     font-family: PostGrotesk;
-    src: url('./Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff');
+    src: url('../font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff');
     font-weight: bold;
 }
 

@@ -1,8 +1,8 @@
 import React from 'react';
-import './Modal.css';
-import phone from './phone1.png';
-import redo from './redo.png';
-import lock from './lock.png';
+import '../css/Modal.css';
+import phone from '../resources/phone1.png';
+import redo from '../resources/redo.png';
+import lock from '../resources/lock.png';
 import VerificationBox from "./VerificationBox";
 
 function Modal(props) {
@@ -25,10 +25,10 @@ function Modal(props) {
                             <h4>Enter the code sent via SMS to</h4>
                             <div className="phone-no">
                                 <div className="phone-no-prefix">
-                                    <h4>+353</h4>
+                                    <h4>+{props.prefix}</h4>
                                 </div>
                                 <div className="phone-no-main">
-                                    <h4>872251177</h4>
+                                    <h4>{props.phoneNumber}</h4>
                                 </div>
                             </div>
                         </div>

@@ -1,7 +1,7 @@
 import React from 'react';
-import GBP from './uk.png';
-import EUR from './euro.png';
-import './App.css';
+import GBP from '../resources/uk.png';
+import EUR from '../resources/euro.png';
+import '../css/App.css';
 
 function HomeLeft(props){
     return(
@@ -25,8 +25,8 @@ function HomeLeft(props){
                 <h3>Specify the amount to be received.</h3>
                 <div className="transaction-box box-1">
                     <div className="transaction-box-text">
-                        <h2>You send</h2>
-                        <h1>€2,000.00</h1>
+                        <h2>YOU SEND</h2>
+                        <h1>€ {props.sendAmount}.00</h1>
                     </div>
                     <div className="currency-box">
                         <img src={EUR} className="currency-img" alt=""/>
@@ -35,8 +35,8 @@ function HomeLeft(props){
                 </div>
                 <div className="transaction-box">
                     <div className="transaction-box-text">
-                        <h2>Receiver Gets</h2>
-                        <h1>£1,717.94</h1>
+                        <h2>RECEIVER GETS</h2>
+                        <h1>£ {props.receiveAmount}</h1>
                     </div>
                     <div className="currency-box">
                         <img src={GBP} className="currency-img" alt=""/>

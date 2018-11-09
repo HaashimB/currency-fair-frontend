@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Modal.css';
+import '../css/Modal.css';
 
 class VerificationBox extends Component {
     constructor(props){
@@ -21,7 +21,6 @@ class VerificationBox extends Component {
     render(){
         return(
             <div className="enter-code-verify">
-                {}
                 {this.box()}
             </div>
         );
