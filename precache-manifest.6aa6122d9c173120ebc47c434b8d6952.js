@@ -40,16 +40,16 @@ self.__precacheManifest = [
     "url": "/currency-fair-frontend/static/media/PostGrotesk-Light.d8432693.woff"
   },
   {
-    "revision": "febf504532ea00c046158055ce20f254",
-    "url": "/currency-fair-frontend/static/media/PostGrotesk-Bold.febf5045.woff"
-  },
-  {
     "revision": "73496d664aad07037a9c1c4dae8d2798",
     "url": "/currency-fair-frontend/static/media/PostGrotesk-Book.73496d66.woff"
   },
   {
     "revision": "b6a37764b3752b2ccfd35e51f93c5473",
     "url": "/currency-fair-frontend/static/media/PostGrotesk-Medium.b6a37764.woff"
+  },
+  {
+    "revision": "febf504532ea00c046158055ce20f254",
+    "url": "/currency-fair-frontend/static/media/PostGrotesk-Bold.febf5045.woff"
   },
   {
     "revision": "12185df249e3c354a060397cb8f096b8",
