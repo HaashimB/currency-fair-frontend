@@ -1,0 +1,20 @@
+.transaction {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.transaction h3 {
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-size: medium;
+}
+
+.grey {
+    color: #969BA0;
+}
+
+.transaction h2 {
+    font-size: larger;
+    font-weight: bold;
+}

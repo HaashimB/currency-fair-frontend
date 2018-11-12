@@ -1,6 +1,5 @@
 import React from 'react';
-import question from '../resources/question.png';
-import '../css/App.css';
+import question from '../resources/images/question.png';
 
 function HomeRight(props){
     return(
@@ -10,7 +9,7 @@ function HomeRight(props){
                     <h4>Sending Details</h4>
                 </div>
                 <div className="exchange-details whitebg">
-                    <h4>You Send</h4>
+                    <h4>You send</h4>
                     <h4 className="col-2 black">€{props.sendAmount.toFixed(2)}</h4>
                 </div>
                 <div className="exchange-details black">

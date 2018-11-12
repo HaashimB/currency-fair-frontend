@@ -1,89 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/js/App.js" description="&lt;/header&gt;" line="42" />
+    <bookmark url="file://$PROJECT_DIR$/src/js/App.js" description="&lt;/header&gt;" line="47" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6ea919-91e8-4aee-9dde-53948895cb3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/HomeLeft.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/HomeRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Transaction.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/TransactionBox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/TransactionBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CF_logo_RGB_NEG.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/CF_logo_RGB_NEG.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeLeft.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeLeft.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeRight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeRight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Modal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VerificationBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/VerificationBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/euro.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/euro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/lock.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lock.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/lock.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/phone1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/phone1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/question.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/redo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uk.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/uk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/HomeLeft.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeLeft.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/HomeRight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeRight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/VerificationBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/VerificationBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/CF_logo_RGB_NEG.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/CF_logo_RGB_NEG.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/euro.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/euro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/lock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/lock.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/lock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/phone1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/phone1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/question.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/question.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/redo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/redo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/uk.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/uk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/App.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,46 +105,57 @@
     <session id="1375372253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="10" />
-          <entry key="html" value="3" />
-          <entry key="ico" value="1" />
-          <entry key="js" value="21" />
-          <entry key="json" value="4" />
-          <entry key="svg" value="2" />
+          <entry key="LICENSE" value="1" />
+          <entry key="css" value="30" />
+          <entry key="html" value="5" />
+          <entry key="ico" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="46" />
+          <entry key="json" value="7" />
+          <entry key="md" value="2" />
+          <entry key="png" value="7" />
+          <entry key="svg" value="4" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="10" />
-          <entry key="HTML" value="3" />
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="21" />
-          <entry key="SVG" value="2" />
+          <entry key="CSS" value="30" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="10" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="46" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SVG" value="4" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="7407" />
-          <entry key="js" value="6808" />
+          <entry key="css" value="8705" />
+          <entry key="html" value="15" />
+          <entry key="js" value="7702" />
+          <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="7407" />
-          <entry key="JavaScript" value="6808" />
+          <entry key="CSS" value="8705" />
+          <entry key="HTML" value="15" />
+          <entry key="JavaScript" value="7702" />
+          <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -145,50 +163,23 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.4873984">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="910">
-                  <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
-                  <folding>
-                    <element signature="e#0#41#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="168">
+                  <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="533">
-                  <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/HomeRight.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="856">
-                  <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/VerificationBox.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+                <state relative-caret-position="588">
+                  <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="20" selection-end-column="65" />
                 </state>
               </provider>
             </entry>
@@ -196,8 +187,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/HomeLeft.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="603">
-                  <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+                <state relative-caret-position="504">
+                  <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -206,10 +197,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/index.js">
+            <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="161">
-                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+                <state relative-caret-position="210">
+                  <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/js/TransactionBox.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -220,12 +220,33 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1200">
-                  <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+                <state relative-caret-position="336">
+                  <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/css/TransactionBox.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1344">
+                  <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
@@ -237,10 +258,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>z-</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -251,18 +277,32 @@
         <option value="$PROJECT_DIR$/src/VerificationBox.js" />
         <option value="$PROJECT_DIR$/src/Modal.js" />
         <option value="$PROJECT_DIR$/src/Modal.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/HomeRight.js" />
         <option value="$PROJECT_DIR$/src/HomeLeft.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/js/HomeLeft.js" />
-        <option value="$PROJECT_DIR$/src/css/Modal.css" />
         <option value="$PROJECT_DIR$/src/js/VerificationBox.js" />
+        <option value="$PROJECT_DIR$/src/js/Tab.js" />
+        <option value="$PROJECT_DIR$/src/js/TransactionBox.js" />
+        <option value="$PROJECT_DIR$/src/css/Transaction.css" />
+        <option value="$PROJECT_DIR$/src/js/Transaction.js" />
         <option value="$PROJECT_DIR$/src/js/HomeRight.js" />
-        <option value="$PROJECT_DIR$/src/js/App.js" />
+        <option value="$PROJECT_DIR$/src/js/HomeLeft.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/manifest.json" />
+        <option value="$PROJECT_DIR$/src/resources/logo.svg" />
         <option value="$PROJECT_DIR$/src/js/Modal.js" />
+        <option value="$PROJECT_DIR$/src/css/Modal.css" />
+        <option value="$PROJECT_DIR$/src/js/Tabs.js" />
+        <option value="$PROJECT_DIR$/src/css/HomeLeft.css" />
+        <option value="$PROJECT_DIR$/src/js/App.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/css/HomeRight.css" />
+        <option value="$PROJECT_DIR$/src/css/index.css" />
+        <option value="$PROJECT_DIR$/src/css/TransactionBox.css" />
+        <option value="$PROJECT_DIR$/src/css/Tabs.css" />
+        <option value="$PROJECT_DIR$/src/tests/App.test.js" />
       </list>
     </option>
   </component>
@@ -281,17 +321,16 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="1429" />
-    <option name="width" value="2497" />
-    <option name="height" value="1452" />
+    <option name="x" value="97" />
+    <option name="y" value="1813" />
+    <option name="width" value="3104" />
+    <option name="height" value="1788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,30 +360,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="currency-fair-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-fair-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="currency-fair-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-fair-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/images" />
+      <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/tests" />
       <recent name="$PROJECT_DIR$/src/js" />
-      <recent name="$PROJECT_DIR$/src/resources" />
-      <recent name="$PROJECT_DIR$/src/Static/JS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,12 +412,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.renders without crashing">
+    <configuration name="renders without crashing" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/App.test.js" />
+      <test-names>
+        <test-name value="renders without crashing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="App.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js/App.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.App.js" />
+      <item itemvalue="Jest.renders without crashing" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.renders without crashing" />
         <item itemvalue="Node.js.App.js" />
       </list>
     </recent_temporary>
@@ -390,22 +460,30 @@
       <workItem from="1541560584052" duration="4406000" />
       <workItem from="1541593642128" duration="23502000" />
       <workItem from="1541700847668" duration="10811000" />
+      <workItem from="1541749754253" duration="12586000" />
+      <workItem from="1541890020548" duration="10160000" />
+      <workItem from="1542036467506" duration="1782000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="renders_without_crashing - 2018.11.12 at 15h 36m 30s.xml">
+      <configuration name="renders without crashing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95454000" />
+    <option name="totallyTimeSpent" value="119874000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="2497" height="1452" extended-state="6" />
+    <frame x="97" y="1813" width="3104" height="1788" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10517799" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19555265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952815" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,11 +497,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14243226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19555265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -445,57 +523,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/CF_logo_RGB_NEG.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
+    <entry file="file://$PROJECT_DIR$/src/js/Transaction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102327" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="252">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -504,48 +535,197 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/VerificationBox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/HomeLeft.js">
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/App.js">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.old.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/lock.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/resources/images/phone1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/phone.png" />
+    <entry file="file://$PROJECT_DIR$/src/resources/images/question.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/images/redo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/images/uk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/images/CF_logo_RGB_NEG.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/src/resources/images/euro.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/images/lock.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/HomeLeft.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/HomeRight.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="462">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/HomeRight.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Transaction.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="20" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/HomeLeft.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
+    <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        <state relative-caret-position="210">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/TransactionBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/TransactionBox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
         </state>
       </provider>
     </entry>

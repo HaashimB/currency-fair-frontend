@@ -1,58 +1,25 @@
 import React from 'react';
-import GBP from '../resources/uk.png';
-import EUR from '../resources/euro.png';
-import '../css/App.css';
+import Tabs from "./Tabs";
+import Transaction from "./Transaction";
 
 function HomeLeft(props){
     return(
         <div className="home-left">
-            <div className="tab">
-                <div className="tab-links link-1">
-                    <h5>Step 1</h5>
-                    <h4>Transaction Info</h4>
+            <Tabs />
+            <Transaction
+                onClick={props.onClick}
+                sendAmount={props.sendAmount}
+                receiveAmount={props.receiveAmount}
+            />
+            <button onClick={props.onClick} className="next-btn">
+                <h3>Next</h3>
+            </button>
+            <div className="footer">
+                <div className="footer-start">
+                    <h5>&copy;2016 CurrencyFair</h5>
                 </div>
-                <div className="tab-links">
-                    <h5>Step 2</h5>
-                    <h4>Recipient Info</h4>
-                </div>
-                <div className="tab-links">
-                    <h5>Step 3</h5>
-                    <h4>Make Payment</h4>
-                </div>
-            </div>
-            <div className="transaction">
-                <h2>Let's set up your transaction!</h2>
-                <h3>Specify the amount to be received.</h3>
-                <div className="transaction-box box-1">
-                    <div className="transaction-box-text">
-                        <h2>YOU SEND</h2>
-                        <h1>€ {props.sendAmount}.00</h1>
-                    </div>
-                    <div className="currency-box">
-                        <img src={EUR} className="currency-img" alt=""/>
-                        <h4>EUR</h4>
-                    </div>
-                </div>
-                <div className="transaction-box">
-                    <div className="transaction-box-text">
-                        <h2>RECEIVER GETS</h2>
-                        <h1>£ {props.receiveAmount}</h1>
-                    </div>
-                    <div className="currency-box">
-                        <img src={GBP} className="currency-img" alt=""/>
-                        <h4>GBP</h4>
-                    </div>
-                </div>
-                <button onClick={props.onClick} className="next-btn">
-                    <h3>Next</h3>
-                </button>
-                <div className="footer">
-                    <div className="footer-start">
-                        <h6>&copy;2016 CurrencyFair</h6>
-                    </div>
-                    <h6>Help & Support</h6>
-                    <h6 className="footer-legal">Legal Stuff</h6>
-                </div>
+                <h5>Help & Support</h5>
+                <h5 className="footer-legal">Legal Stuff</h5>
             </div>
         </div>
     );

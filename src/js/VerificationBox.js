@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import '../css/Modal.css';
 
 class VerificationBox extends Component {
     constructor(props){

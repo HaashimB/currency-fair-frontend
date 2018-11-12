@@ -1,0 +1,31 @@
+.tab {
+    background-color: white;
+    display: flex;
+}
+
+.tab-links {
+    display: flex;
+    flex-direction: column;
+    background-color: inherit;
+    border-bottom: 5px solid #99ceff45;
+    color: #bfc5cab5;
+    padding-left: 8%;
+    width: 10.8vw;
+}
+
+.link-active {
+    border-color: #3DAADE;
+    color: #99ceff;
+}
+
+.tab-links h4 {
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.tab-links h5 {
+    margin-bottom: 5px;
+    margin-top: 0;
+    font-weight: bold;
+}
