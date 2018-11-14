@@ -10,8 +10,7 @@ class VerificationBox extends Component {
         let verifyBox = [];
         for(let i = 0; i<6; i++){
             verifyBox.push(
-                <input className="verify-box">
-                </input>
+                <input key={i} className="verify-box"/>
             )
         }
         return verifyBox;

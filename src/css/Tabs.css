@@ -11,7 +11,8 @@
     background-color: inherit;
     border-bottom: 5px solid #99ceff45;
     color: #bfc5cab5;
-    width: 33.3%;
+    width: 25%;
+    padding-left: 8%;
 }
 
 .link-active {
