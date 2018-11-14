@@ -44,7 +44,7 @@ class App extends Component {
         return (
             <div className="home">
                 <header className="home-header">
-                    <img src={CFLogo} alt=""/>
+                    <img src={CFLogo} className="logo" alt=""/>
                 </header>
                 <div className="home-main">
                     <Modal

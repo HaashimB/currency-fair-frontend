@@ -10,11 +10,11 @@ function HomeRight(props){
                 </div>
                 <div className="exchange-details whitebg">
                     <h4>You send</h4>
-                    <h4 className="col-2 black">€{props.sendAmount.toFixed(2)}</h4>
+                    <h4 className="col-2 black center">€{props.sendAmount.toFixed(2)}</h4>
                 </div>
                 <div className="exchange-details black">
                     <h4>Receiving Details</h4>
-                    <h5 className="col-2 blue"> As of right now</h5>
+                    <h5 className="col-2 blue center"> As of right now</h5>
                     <img src={question} className="question-image" alt="" />
                 </div>
                 <div className="exchange-details-large whitebg">
