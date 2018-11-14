@@ -1,16 +1,17 @@
 ## Currency Fair Code Test
 
-### Live Page:
+#### Live Page:
 
 https://hashdoge.github.io/currency-fair-frontend/
 
-### Description 
+#### Description 
 
 A Technical Test as part of the interview process for Currency Fair. This project was created using NPM, ReactJS, HTML and CSS. 
 
 No UI frameworks were used.
 
-### Technical Architecture
+Technical Architecture
+-
 
 ![Diagram](./src/resources/images/Architecture.png)
 
@@ -50,7 +51,8 @@ All of the StyleSheets are imported into 'App.js' and used across all of the dif
 'Flexbox' was used for the positioning and alignment of all the DOM Elements. 
 Margin and Padding were used for the fine tuning. 
 
-#### Problems Encountered
+Problems Encountered
+-
 
 ##### Hosting 
 
@@ -61,6 +63,6 @@ also very simple to set up with react.
 ##### Spacing/Alignment
 
 I had a lot of issues when trying to align the different sections, text, buttons, etc. How I got around this was utilising
-the flex display to its full capacity and creating outer divs for more control over the precise location
-of different segments. 
+the flex display to its full capacity and creating outer divs for more control over the precise location.
+ This consisted of a lot of trial and error. 
 
