@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/currency-fair-frontend/static/media/uk.24b11646.png"
   },
   {
-    "revision": "fb31f955520894d43130",
-    "url": "/currency-fair-frontend/static/css/main.2b0d21d3.chunk.css"
+    "revision": "edefc346dcebdcd91ea8",
+    "url": "/currency-fair-frontend/static/css/main.fefce6a2.chunk.css"
   },
   {
     "revision": "647419831ecaa3525774",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/currency-fair-frontend/static/media/euro.9c5cd825.png"
   },
   {
-    "revision": "fb31f955520894d43130",
-    "url": "/currency-fair-frontend/static/js/main.fb31f955.chunk.js"
+    "revision": "edefc346dcebdcd91ea8",
+    "url": "/currency-fair-frontend/static/js/main.edefc346.chunk.js"
   },
   {
     "revision": "6338c90c5ce6cf1072687e7e5c0c8a0e",
@@ -40,19 +40,19 @@ self.__precacheManifest = [
     "url": "/currency-fair-frontend/static/media/PostGrotesk-Light.d8432693.woff"
   },
   {
-    "revision": "febf504532ea00c046158055ce20f254",
-    "url": "/currency-fair-frontend/static/media/PostGrotesk-Bold.febf5045.woff"
+    "revision": "73496d664aad07037a9c1c4dae8d2798",
+    "url": "/currency-fair-frontend/static/media/PostGrotesk-Book.73496d66.woff"
   },
   {
     "revision": "b6a37764b3752b2ccfd35e51f93c5473",
     "url": "/currency-fair-frontend/static/media/PostGrotesk-Medium.b6a37764.woff"
   },
   {
-    "revision": "73496d664aad07037a9c1c4dae8d2798",
-    "url": "/currency-fair-frontend/static/media/PostGrotesk-Book.73496d66.woff"
+    "revision": "febf504532ea00c046158055ce20f254",
+    "url": "/currency-fair-frontend/static/media/PostGrotesk-Bold.febf5045.woff"
   },
   {
-    "revision": "254adb482e2ddb50276e61cf51e7f089",
+    "revision": "11b4edf495d093b986a04fbb9abf8f18",
     "url": "/currency-fair-frontend/index.html"
   }
 ];
