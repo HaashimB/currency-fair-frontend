@@ -1,6 +1,8 @@
 .tab {
     background-color: white;
     display: flex;
+    width: 41vw;
+    justify-content: center;
 }
 
 .tab-links {
@@ -9,8 +11,7 @@
     background-color: inherit;
     border-bottom: 5px solid #99ceff45;
     color: #bfc5cab5;
-    padding-left: 8%;
-    width: 10.8vw;
+    width: 33.3%;
 }
 
 .link-active {

@@ -5,92 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f6ea919-91e8-4aee-9dde-53948895cb3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/HomeLeft.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/HomeRight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Transaction.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/TransactionBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Transaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/TransactionBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Modal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Book.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-BookItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Light.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-LightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-Medium.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-OTF-MAC/PostGrotesk-MediumItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Book.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-BookItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-TTF-WINDOWS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BoldItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Book.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-BookItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-LightItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-Medium.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/font/post-grotesk/PostGrotesk-AllStyles-v1.010-WEBFONTS/PostGrotesk-MediumItalic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/HomeLeft.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeLeft.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/HomeRight.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeRight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/VerificationBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/VerificationBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/CF_logo_RGB_NEG.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/CF_logo_RGB_NEG.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/euro.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/euro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/lock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/lock.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/lock.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/phone1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/phone1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/question.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/question.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/redo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/redo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/uk.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/images/uk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Tabs.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -105,56 +22,61 @@
     <session id="1375372253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="css" value="30" />
+          <entry key="css" value="31" />
           <entry key="html" value="5" />
           <entry key="ico" value="2" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="46" />
+          <entry key="js" value="49" />
           <entry key="json" value="7" />
-          <entry key="md" value="2" />
-          <entry key="png" value="7" />
+          <entry key="md" value="3" />
+          <entry key="png" value="9" />
           <entry key="svg" value="4" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="30" />
+          <entry key="CSS" value="31" />
           <entry key="HTML" value="5" />
-          <entry key="Image" value="10" />
+          <entry key="Image" value="12" />
           <entry key="JSON" value="7" />
-          <entry key="JavaScript" value="46" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JavaScript" value="49" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="SVG" value="4" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="8705" />
+          <entry key="css" value="8792" />
           <entry key="html" value="15" />
           <entry key="js" value="7702" />
+          <entry key="md" value="365" />
           <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="8705" />
+          <entry key="CSS" value="8792" />
           <entry key="HTML" value="15" />
           <entry key="JavaScript" value="7702" />
+          <entry key="Markdown" value="362" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
@@ -163,23 +85,15 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4873984">
+    <splitter split-orientation="horizontal" split-proportion="0.7620865">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/App.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="588">
-                  <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="20" selection-end-column="65" />
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -187,8 +101,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/HomeLeft.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+                <state relative-caret-position="69">
+                  <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="115">
+                  <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/js/Transaction.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="138">
+                  <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -197,19 +129,52 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
+            <entry file="file://$PROJECT_DIR$/src/js/TransactionBox.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+                <state relative-caret-position="138">
+                  <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/js/TransactionBox.js">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+                <state>
+                  <caret column="26" selection-start-column="26" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/js/VerificationBox.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/js/HomeRight.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="184">
+                  <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="69">
+                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -220,33 +185,39 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
+            <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="3105">
+                  <caret line="135" column="23" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/css/TransactionBox.css">
+            <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1344">
-                  <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+                <state relative-caret-position="299">
+                  <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
+            <entry file="file://$PROJECT_DIR$/src/css/App.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+                <state relative-caret-position="483">
+                  <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/css/HomeRight.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="115">
+                  <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -301,8 +272,9 @@
         <option value="$PROJECT_DIR$/src/css/HomeRight.css" />
         <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/css/TransactionBox.css" />
-        <option value="$PROJECT_DIR$/src/css/Tabs.css" />
         <option value="$PROJECT_DIR$/src/tests/App.test.js" />
+        <option value="$PROJECT_DIR$/src/css/Tabs.css" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -321,16 +293,17 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="97" />
-    <option name="y" value="1813" />
-    <option name="width" value="3104" />
-    <option name="height" value="1788" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="2495" />
+    <option name="height" value="1444" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -370,13 +343,19 @@
               <item name="currency-fair-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="currency-fair-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="currency-fair-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency-fair-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -463,6 +442,8 @@
       <workItem from="1541749754253" duration="12586000" />
       <workItem from="1541890020548" duration="10160000" />
       <workItem from="1542036467506" duration="1782000" />
+      <workItem from="1542156952895" duration="319000" />
+      <workItem from="1542157300270" duration="1138000" />
     </task>
     <servers />
   </component>
@@ -472,13 +453,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119874000" />
+    <option name="totallyTimeSpent" value="125145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="1813" width="3104" height="1788" extended-state="6" />
+    <frame x="65" y="-4" width="2495" height="1444" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19555265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10517799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -523,23 +504,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/Transaction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/VerificationBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -549,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="299">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -558,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.old.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/lock.jpg" />
@@ -587,17 +548,10 @@
     <entry file="file://$PROJECT_DIR$/src/resources/images/lock.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="391">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -608,38 +562,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/HomeLeft.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
           <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/HomeRight.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/HomeRight.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -664,40 +590,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/App.js">
+    <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/TransactionBox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="1344">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
+    <entry file="file://$PROJECT_DIR$/src/js/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="20" selection-end-column="65" />
+        <state relative-caret-position="69">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/HomeLeft.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="69">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/Transaction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/Tabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/TransactionBox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="138">
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -705,27 +641,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
+    <entry file="file://$PROJECT_DIR$/src/js/Modal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/App.test.js">
+    <entry file="file://$PROJECT_DIR$/src/js/VerificationBox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="184">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/HomeRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/TransactionBox.css">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state relative-caret-position="69">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="135" column="23" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/HomeRight.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Tabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/images/diagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="3316" selection-start-line="46" selection-start-column="3316" selection-end-line="46" selection-end-column="3316" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
