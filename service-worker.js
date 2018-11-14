@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/currency-fair-frontend/precache-manifest.2038cbf084836d3d6c077817b0bef279.js"
+  "/currency-fair-frontend/precache-manifest.36a9c7957177da7ed9880f85f65c3b4e.js"
 );
 
 workbox.clientsClaim();

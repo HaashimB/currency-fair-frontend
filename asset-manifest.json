@@ -1,7 +1,7 @@
 {
-  "main.css": "/currency-fair-frontend/static/css/main.fefce6a2.chunk.css",
-  "main.js": "/currency-fair-frontend/static/js/main.edefc346.chunk.js",
-  "main.js.map": "/currency-fair-frontend/static/js/main.edefc346.chunk.js.map",
+  "main.css": "/currency-fair-frontend/static/css/main.c34f0bc4.chunk.css",
+  "main.js": "/currency-fair-frontend/static/js/main.65767408.chunk.js",
+  "main.js.map": "/currency-fair-frontend/static/js/main.65767408.chunk.js.map",
   "static/js/1.64741983.chunk.js": "/currency-fair-frontend/static/js/1.64741983.chunk.js",
   "static/js/1.64741983.chunk.js.map": "/currency-fair-frontend/static/js/1.64741983.chunk.js.map",
   "runtime~main.js": "/currency-fair-frontend/static/js/runtime~main.baa485e8.js",
@@ -12,8 +12,8 @@
   "static/media/question.png": "/currency-fair-frontend/static/media/question.6338c90c.png",
   "static/media/index.css": "/currency-fair-frontend/static/media/PostGrotesk-Bold.febf5045.woff",
   "static/media/lock.png": "/currency-fair-frontend/static/media/lock.03d6237b.png",
-  "static/css/main.fefce6a2.chunk.css.map": "/currency-fair-frontend/static/css/main.fefce6a2.chunk.css.map",
+  "static/css/main.c34f0bc4.chunk.css.map": "/currency-fair-frontend/static/css/main.c34f0bc4.chunk.css.map",
   "index.html": "/currency-fair-frontend/index.html",
-  "precache-manifest.2038cbf084836d3d6c077817b0bef279.js": "/currency-fair-frontend/precache-manifest.2038cbf084836d3d6c077817b0bef279.js",
+  "precache-manifest.36a9c7957177da7ed9880f85f65c3b4e.js": "/currency-fair-frontend/precache-manifest.36a9c7957177da7ed9880f85f65c3b4e.js",
   "service-worker.js": "/currency-fair-frontend/service-worker.js"
 }
